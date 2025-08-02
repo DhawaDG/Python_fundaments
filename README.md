@@ -5,7 +5,7 @@ This repository documents my journey in mastering Python fundamentals. It includ
 
 ---
 
-## Projects
+## Hands-on Projects
 
 | SN | Python Fundamentals Projects |
 |:---:|:---|
