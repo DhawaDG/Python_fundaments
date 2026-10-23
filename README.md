@@ -32,13 +32,15 @@ This repository documents my journey in mastering Python fundamentals. It includ
 ## Handwritten Notes PDF
 
 A collection of detailed handwritten notes and summaries is available in PDF format.  
-[View Python Fundamentals Notes](https://github.com/DhawaDG/Python_fundaments/blob/main/errorhandling.pdf)
+[View Python Fundamentals Notes]()
 
 [1. Loops & Different types of Conditionals statement](https://github.com/DhawaDG/Python_fundaments/blob/main/pythonconditionalstatement.pdf)
 
 [2. Functions and its types](https://github.com/DhawaDG/Python_fundaments/blob/main/Functionsanditstypes.pdf)
 
 [3. Error handling](https://github.com/DhawaDG/Python_fundaments/blob/main/errorhandling.pdf)
+
+[4.Data Stucture: List & ]ist comprehension.Tubles,Sets.Dictionaries & it's comprehension](https://github.com/DhawaDG/Python_fundaments/blob/main/datastructure.pdf)
 
 ---
 
