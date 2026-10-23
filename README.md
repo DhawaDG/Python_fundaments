@@ -99,9 +99,6 @@ Topics covered:
 - **Download:** Click the Download PDF link to access the original PDF file.
 - **Study:** Use these notes for learning, practice, and revision of Python fundamentals.
 
-## 🔗 Repository
-
-[Python Fundamentals — DhawaDG](https://github.com/DhawaDG/Python_fundaments)
 
 
 ---
