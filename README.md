@@ -81,6 +81,16 @@ Topics covered:
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/modelandpackages.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/modelandpackages.pdf)
 
+### 8. Advanced Data Structures
+Topics covered:
+- Stacks
+- Queues
+- Linked Lists
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/modelandpackages.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/modelandpackages.pdf)
+
+
+
 ---
 
 ## 💡 How to Use These Notes
