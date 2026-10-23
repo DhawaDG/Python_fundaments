@@ -33,6 +33,7 @@ This repository documents my journey in mastering Python fundamentals. It includ
 
 A collection of detailed handwritten notes and summaries is available in PDF format.  
 [View Python Fundamentals Notes](https://github.com/DhawaDG/Python_fundaments/blob/main/pythonconditionalstatement.pdf)
+
 [1. Loops & Different types of Conditionals statement](https://github.com/DhawaDG/Python_fundaments/blob/main/pythonconditionalstatement.pdf)
 ---
 
