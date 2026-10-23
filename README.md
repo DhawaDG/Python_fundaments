@@ -40,7 +40,7 @@ A collection of detailed handwritten notes and summaries is available in PDF for
 
 [3. Error handling](https://github.com/DhawaDG/Python_fundaments/blob/main/errorhandling.pdf)
 
-[4.Data Stucture: List & ]ist comprehension.Tubles,Sets.Dictionaries & it's comprehension](https://github.com/DhawaDG/Python_fundaments/blob/main/datastructure.pdf)
+[4.Data Stucture:List & List comprehension.Tubles,Sets.Dictionaries & it's comprehension](https://github.com/DhawaDG/Python_fundaments/blob/main/datastructure.pdf)
 
 ---
 
