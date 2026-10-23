@@ -44,6 +44,9 @@ A collection of detailed handwritten notes and summaries is available in PDF for
 
 [5. File Handling ](https://github.com/DhawaDG/Python_fundaments/blob/main/filehandling.pdf)
 
+[6. OOP: Class & oject, Constructors.Inheritance & its types,Method Overriding, Access Modifier,Encapsulation. Understanding Super().Getter & Setters. Abstractions.Polymorphism ](https://github.com/DhawaDG/Python_fundaments/blob/main/OOP.pdf)
+
+
 ---
 
 ## Book References
