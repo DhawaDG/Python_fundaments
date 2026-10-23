@@ -89,7 +89,15 @@ Topics covered:
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/advanceddatastructure.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/advanceddatastructure.pdf)
 
+### 9. Expense Tracker Project Explained
+- The notes explain how the statement expenses = load_expenses_from_file() works by calling a function that returns a list of expenses and assigns that returned value to the variable.
+- They illustrate newline escape sequences using examples like print("Hello \n World") to demonstrate how newline characters affect text output.
+- They explain the role of the return statement within functions such as view-expenses(), showing that it terminates function execution immediately, provides an early exit when no expenses are present, and optionally sends results back to the caller.
+- They cover the mechanics of enumerate(expanses, start=1) to show how loop iteration tracks both indices—starting from 1 instead of 0—and dictionary values through tuple unpacking, noting that the pipe symbol (|) serves purely as a visual separator for clarity.
+- They clarify why file-handler.py contains two return statements, where return json.load(file) handles successful data loading and return [] provides a default empty list during error cases such as FileNotFoundError or JSONDecodeError.   
 
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/Expemse_tracker.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/Expemse_tracker.pdf)
 
 ---
 
