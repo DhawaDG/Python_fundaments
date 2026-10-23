@@ -87,7 +87,7 @@ Topics covered:
 - Queues
 - Linked Lists
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/advanceddatastructure.pdf)
-- [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/advanveddatastructure.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/advanceddatastructure.pdf)
 
 
 
