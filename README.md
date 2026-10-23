@@ -99,6 +99,12 @@ Topics covered:
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/Expemse_tracker.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/Expemse_tracker.pdf)
 
+### 1. Password Manager Project Explained
+
+
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/passwordmanager.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/passwordmanager.pdf)
+
 ---
 
 ## 💡 How to Use These Notes
