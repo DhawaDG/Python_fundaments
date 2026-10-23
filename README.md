@@ -75,6 +75,12 @@ Topics covered:
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/OOP.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/OOP.pdf)
 
+
+
+### 7. Modules and Packages
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/modelandpackages.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/modelandpackages.pdf)
+
 ---
 
 ## 💡 How to Use These Notes
