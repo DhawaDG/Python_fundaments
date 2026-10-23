@@ -99,7 +99,7 @@ Topics covered:
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/Expemse_tracker.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/Expemse_tracker.pdf)
 
-### 1. Password Manager Project Explained
+### 10. Password Manager Project Explained
 - The notes explain the purpose of the strip() method in removing leading and trailing whitespace, tabs, and newlines from user input to prevent saving or comparison issues.
 - They break down what .replace("", "").isalpha() does, showing that it first removes all spaces from a string and then checks if the remaining characters are strictly alphabetic.
 - They cover how expressions like any(char in special_chars for char in user_password) iterate through a password string to verify the presence of required special characters.
