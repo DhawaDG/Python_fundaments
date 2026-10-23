@@ -100,8 +100,13 @@ Topics covered:
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/Expemse_tracker.pdf)
 
 ### 1. Password Manager Project Explained
-
-
+- The notes explain the purpose of the strip() method in removing leading and trailing whitespace, tabs, and newlines from user input to prevent saving or comparison issues.
+- They break down what .replace("", "").isalpha() does, showing that it first removes all spaces from a string and then checks if the remaining characters are strictly alphabetic.
+- They cover how expressions like any(char in special_chars for char in user_password) iterate through a password string to verify the presence of required special characters.
+- They detail how "".join(random.choice(all_chars) for _ in range(password_length)) works, explaining random.choice(), throwaway loop variables (_), loops, and string joining.
+- They contrast the behavior of break, continue, and return statements in Python control flow.
+- They explain why an item can still be accessed and printed after being removed via passwords.remove(queryname), detailing Python's reference-counting mechanism and how local variables maintain references in memory until they go out of scope.
+  
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/passwordmanager.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/passwordmanager.pdf)
 
