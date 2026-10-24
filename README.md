@@ -78,6 +78,20 @@ A collection of detailed handwritten notes covering essential Python programming
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/Functionsanditstypes.pdf)
 
 ### 3. Error Handling
+| Topics Covered | Page |
+| :--- | :--- |
+| Error handling: purpose (handle errors gracefully instead of crashing) | `page 1` |
+| try block (runs the code, except is skipped if no error) | `page 1` |
+| except block (runs when an error occurs in try) | `page 1` |
+| Uses: preventing crashes, graceful error handling, debugging | `page 1` |
+| Syntax: try: / except ErrorType: | `page 1` |
+| Common error types: ValueError (e.g. int("hello")) | `page 2` |
+| ZeroDivisionError (e.g. 10/0) | `page 2` |
+| TypeError (e.g. "hello" + 5) | `page 2` |
+| FileNotFoundError (opening a file that doesn’t exist) | `page 2` |
+| IndexError (e.g. my_list[10]) | `page 2` |
+| finally block (always runs, useful for cleanup such as closing files) | `page 2` |
+| Full example: try / except ValueError / except ZeroDivisionError / else / finally (10 divided by user input) | `page 3` |
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/errorhandling.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/errorhandling.pdf)
 
