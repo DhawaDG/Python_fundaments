@@ -96,10 +96,49 @@ A collection of detailed handwritten notes covering essential Python programming
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/errorhandling.pdf)
 
 ### 4. Data Structures & Comprehensions
-Topics covered:
-- Lists and List Comprehensions
-- Tuples and Sets
-- Dictionaries and Dictionary Comprehensions
+| Topics Covered | Page |
+| :--- | :--- |
+| Lists: properties (mutable, ordered, heterogeneous, indexed, dynamic) | `page 1` |
+| Accessing list items: positive indexing, negative indexing, slicing | `page 1` |
+| Modifying lists: changing an item | `page 1` |
+| Adding items: append(), insert(), extend() | `page 1` |
+| Removing items: remove(), pop(), del, clear() | `page 2` |
+| List methods table (append, insert, extend, remove, pop, clear, index) | `page 2` |
+| List methods continued (count, sort, reverse, copy) | `page 3` |
+| List operations: concatenation, repetition, membership | `page 3` |
+| List comprehension: syntax, the parts (expression, item, iterable, condition) | `page 4` |
+| List comprehension examples: squares, uppercase strings, even numbers, words longer than 5 characters | `page 4` |
+| Nested list comprehension (flattening a matrix) | `page 5` |
+| Extracting keys from a dictionary | `page 5` |
+| Replacing negative numbers | `page 5` |
+| Tuples: properties (immutable, ordered, heterogeneous, indexed, hashable) | `page 6` |
+| Converting a list to a tuple, single-item tuple, tuple without parentheses | `page 6` |
+| Tuple indexing (positive, negative) and slicing | `page 6` |
+| Immutability of tuples, and modifying by slicing and concatenating | `page 7` |
+| Tuple operations: concatenation, repetition, membership | `page 7` |
+| Multi-dimensional tuple | `page 8` |
+| Unpacking tuples, and extended unpacking (a, *b = fruits) | `page 8` |
+| Tuple methods (count, index) | `page 8` |
+| Sets: properties (unique, unordered, mutable, fast membership, heterogeneous) | `page 9` |
+| set() constructor, empty set, accessing items with in | `page 9` |
+| Modifying sets: add(), update() | `page 9` |
+| Removing items: remove(), discard(), pop(), clear() | `page 10` |
+| Set operations: union, intersection, difference, symmetric difference | `page 10` |
+| Frozen sets (frozenset) | `page 10` |
+| Set methods list (including issubset, issuperset, isdisjoint) | `page 11` |
+| Dictionaries: properties (key-value pairs, unordered, mutable, fast lookups) | `page 12` |
+| Creating dictionaries: dict() constructor, from a list of tuples, empty dictionary | `page 12` |
+| Accessing items: square brackets and get() with a default value | `page 12` |
+| Adding or updating items | `page 12` |
+| Removing items: pop(), popitem(), del, clear() | `page 13` |
+| Dictionary operations: membership, length, iterating over keys, values and items | `page 13` |
+| Nested dictionaries | `page 13` |
+| Dictionary methods list | `page 14` |
+| Dictionary comprehensions: syntax, squares, uppercase keys | `page 15` |
+| Dictionary comprehensions with conditions (even squares, long words) | `page 15` |
+| Matrix to dictionary | `page 16–17` |
+| Applying a function to each value (abs) | `page 16–17` |
+| Optional: building a dictionary with a for loop | `page 16–17` |
 
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/datastructure.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/datastructure.pdf)
