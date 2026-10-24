@@ -57,6 +57,23 @@ A collection of detailed handwritten notes covering essential Python programming
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/pythonconditionalstatement.pdf)
 
 ### 2. Functions and Their Types
+| Topics Covered | Page |
+| :--- | :--- |
+| Parameters vs arguments (multiply(x, y) example) | `page 1` |
+| return statement (any data type, returns None if missing, square(n) example) | `page 1` |
+| Default arguments (greet(name="Guest")) | `page 2` |
+| Keyword arguments (describe_pet(name=..., animal=...)) | `page 2` |
+| Positional arguments: args (sum_all) | `page 2` |
+| **kwargs (describe(name="Alice", age=25)) | `page 2–3` |
+| Lambda functions: definition and square example | `page 3` |
+| Scope of variables: local vs global, global keyword (update_x) | `page 3` |
+| Recursion (factorial(5) outputs 120) | `page 4` |
+| Docstrings and help(add) | `page 4` |
+| Lambda with multiple arguments (multiply = lambda x, y: xy) | `page 5` |
+| Lambda with no argument (greet = lambda: "Hello, World!") | `page 5` |
+| Lambda with built-in functions: map() (double a list) | `page 5` |
+| Lambda with filter() (even numbers) | `page 5` |
+| Lambda with sorted() using key | `page 5` |
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/Functionsanditstypes.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/Functionsanditstypes.pdf)
 
