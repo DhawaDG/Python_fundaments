@@ -36,6 +36,23 @@ A collection of detailed handwritten notes covering essential Python programming
 ## 📖 Handwritten Notes
 
 ### 1. Loops & Conditional Statements
+| Topics Covered | Page |
+| :--- | :--- |
+| Control statements: flowchart “what to do if it is raining” | `page 1` |
+| Flowchart symbols (rounded rectangle = start/end, diamond = branch, rectangle = other steps) | `page 1` |
+| Elements of flow control: conditions (Boolean expressions) and clauses (blocks of code) | `page 2` |
+| if statement: example (if name == 'Alice') and flowchart | `page 2` |
+| else statement: example (Hi, Alice / Hello, stranger) and flowchart | `page 3` |
+| elif statement: example (age < 12) and flowchart | `page 4` |
+| while loop statement: if vs while code with spam < 5 | `page 5` |
+| while loop flowchart | `page 5–6` |
+| What happens in if and in while (step-by-step explanation) | `page 6` |
+| if vs while comparison (runs once vs repeats) with sample output | `page 7` |
+| break statement: while True loop asking for a name | `page 8` |
+| break flowchart | `page 8` |
+| continue statement: while True login example (name check, then password swordfish) | `page 9` |
+| continue flowchart | `page 9–10` |
+| End of the continue flowchart (print('Access granted'), End) | `page 10` |
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/pythonconditionalstatement.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/pythonconditionalstatement.pdf)
 
