@@ -144,6 +144,27 @@ A collection of detailed handwritten notes covering essential Python programming
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/datastructure.pdf)
 
 ### 5. File Handling
+| Topics Covered | Page |
+| :--- | :--- |
+| File handling: purpose (read from and write to files) | `page 1` |
+| Opening a file: open(filename, mode) | `page 1` |
+| Common modes: r, w, a, b, x (exclusive creation), + (update) | `page 1` |
+| Reading a file: read() (entire file as a string) | `page 2` |
+| readline() (one line at a time) | `page 2` |
+| readlines() (all lines into a list) | `page 2` |
+| Iterating over lines with a for loop and strip() | `page 2` |
+| Writing to a file: write() | `page 3` |
+| writelines() (a list of strings) | `page 3` |
+| Using with for file handling (file closes automatically, even on an exception) | `page 3` |
+| Binary files (rb / wb, copying image.png) | `page 4` |
+| JSON: reading with json.load() | `page 4` |
+| JSON: writing with json.dump() | `page 4` |
+| CSV: reading with csv.reader | `page 5` |
+| CSV: writing with csv.writer and writerows() | `page 5` |
+| Pickle: definition (serialize and deserialize Python objects) | `page 5` |
+| Pickle: writing with pickle.dump() | `page 5` |
+| Pickle: reading with pickle.load() | `page 5–6` |
+| End of the pickle read example (print(data)) | `page 6` |
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/filehandling.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/filehandling.pdf)
 
