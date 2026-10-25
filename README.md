@@ -232,10 +232,33 @@ A collection of detailed handwritten notes covering essential Python programming
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/modelandpackages.pdf)
 
 ### 8. Advanced Data Structures
-Topics covered:
-- Stacks
-- Queues
-- Linked Lists
+| Topics Covered | Page |
+| :--- | :--- |
+| Stacks: LIFO definition, push, pop, peek, isEmpty | `page 1` |
+| Implementing a stack in Python | `page 1–2` |
+| Queues: FIFO definition, enqueue, dequeue, peek, isEmpty | `page 2` |
+| Implementing a queue with deque (append, popleft) | `page 2–3` |
+| Why use deque() and not a list for a queue | `page 3` |
+| Linked lists: definition, singly vs doubly linked | `page 4` |
+| Node class and LinkedList class code | `page 4–5` |
+| print_list method and creating a linked list | `page 5` |
+| Node class explained: data, next, self, self.data = data | `page 5–6` |
+| How Node(10) works | `page 6–7` |
+| LinkedList class overview: append() and print_list() | `page 7` |
+| append() step 1: creating the new node | `page 7` |
+| append() step 2: empty-list check and what self.head stores | `page 7–8` |
+| Constructor attributes can be any data type | `page 8` |
+| Composition vs inheritance (LinkedList uses Node) | `page 9` |
+| What a Node object is, and how it looks in memory | `page 9` |
+| self.head stores a reference to new_node | `page 10` |
+| return after setting the head | `page 10` |
+| Traversing to the end: last_node = self.head and the while last_node.next loop | `page 10–11` |
+| Stop condition and the appending step last_node.next = new_node | `page 11–12` |
+| print_list purpose and step-by-step (current, while loop, end=" -> ") | `page 12–14` |
+| Printing None at the end of the list | `page 14` |
+| Dry run of append(1) (empty list, return) | `page 14–15` |
+| Dry run of append(2) and append(3) | `page 15–16` |
+| Relation between LinkedList and print_list (heading only) | `page 16` |
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/advanceddatastructure.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/advanceddatastructure.pdf)
 
