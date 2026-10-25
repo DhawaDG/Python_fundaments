@@ -34,7 +34,7 @@ This repository documents my journey in mastering Python fundamentals. It includ
 A collection of detailed handwritten notes covering essential Python programming concepts, with explanations and summaries to support learning and revision.
 
 > **Note on Viewing PDFs on GitHub:**  
-> If you encounter an "Unable to render code block" or preview error when opening a **📄 View PDF on GitHub** link, please reload the page or use the **⬇️ Download PDF** link right below it.
+> If you encounter an "`***Unable to render code block***`" or preview error when opening a **📄 View PDF on GitHub** link, please reload the page or use the **⬇️ Download PDF** link right below it.
 
 ## 📖 Handwritten Notes
 
