@@ -228,6 +228,21 @@ A collection of detailed handwritten notes covering essential Python programming
 
 
 ### 7. Modules and Packages
+| Topics Covered | Page |
+| :--- | :--- |
+| What is a module (math_operations.py with add and subtract) | `page 1` |
+| Importing modules (import module_name, module.function()) | `page 1` |
+| Importing specific items (from module import item) | `page 2` |
+| Importing all items (from module import *) | `page 2` |
+| What is a package, and its directory structure (with a subpackage) | `page 3` |
+| Importing from packages | `page 3` |
+| Relative imports (from . import, from .subpackage import) | `page 3` |
+| The init.py file: purpose (marks a directory as a package) | `page 4` |
+| Why init.py matters (package marker, initialization code, controls imports) | `page 4` |
+| Empty init.py | `page 4–5` |
+| Non-empty init.py (runs initialization code, imports specific functions) | `page 5` |
+| init.py with all (controls what from package import * imports) | `page 5–6` |
+| Installing third-party packages (pip install requests, requests.get) | `page 6` |
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/modelandpackages.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/modelandpackages.pdf)
 
