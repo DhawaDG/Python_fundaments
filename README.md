@@ -169,16 +169,58 @@ A collection of detailed handwritten notes covering essential Python programming
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/filehandling.pdf)
 
 ### 6. Object-Oriented Programming (OOP)
-Topics covered:
-- Classes and Objects
-- Constructors
-- Inheritance and Its Types
-- Method Overriding
-- Access Modifiers
-- Encapsulation and Abstraction
-- Understanding `super()`
-- Getters and Setters
-- Polymorphism
+| Topics Covered | Page |
+| :--- | :--- |
+| Classes: blueprint definition, Dog example (attributes and a method) | `page 1` |
+| Constructors: definition, init, and the default constructor | `page 1` |
+| Parameterized constructor | `page 2` |
+| Non-parameterized constructor | `page 2` |
+| Key concepts: the self parameter | `page 2` |
+| Initialization, custom arguments, default values | `page 3` |
+| Advanced constructor concepts: constructor overloading (default args, *args, **kwargs) | `page 4` |
+| Dynamic attributes with setattr() | `page 4–5` |
+| Calling other methods from the constructor | `page 5` |
+| Destructors (del) | `page 5` |
+| Constructor chaining with super() | `page 6` |
+| Objects (multiple objects from one class) | `page 7` |
+| Inheritance: definition, Animal and Dog example | `page 7–8` |
+| Types of inheritance: single, multiple | `page 8` |
+| Multilevel and hierarchical inheritance | `page 9` |
+| Hybrid inheritance | `page 10` |
+| Method overriding | `page 10` |
+| Access modifiers: public in inheritance | `page 11` |
+| Protected in inheritance () | `page 11–12` |
+| Private in inheritance (__), name mangling | `page 12` |
+| Encapsulation: definition, private members, BankAccount example | `page 13` |
+| Using BankAccount, name-mangled access, whether get methods are compulsory | `page 14` |
+| Protected members (Person and Student) | `page 15–16` |
+| Student object output, why display(self) needs no parameters | `page 17` |
+| What super() does, and that the rule is the same for public, protected and private | `page 17` |
+| Public members (Car example) | `page 18` |
+| Getters and setters (@property, @celsius.setter, Temperature example) | `page 19` |
+| Getter vs setter comparison table | `page 20` |
+| Abstraction: definition, car analogy, ABC and @abstractmethod | `page 21–22` |
+| Abstract class Car, subclasses ElectricCar and PetrolCar, example output | `page 21–23` |
+| Subclass method names must match the abstract method | `page 24` |
+| Abstraction vs encapsulation table | `page 24` |
+| Why super() is needed: to call the parent constructor (with and without super()) | `page 25–26` |
+| Why super() is needed: to extend parent class methods | `page 27` |
+| Why super() is needed: to handle multiple inheritance (MRO, classes A, B, C, D) | `page 28–29` |
+| super() vs return in start_engine | `page 29, 31` |
+| Why you don’t need super() to access self.name | `page 30` |
+| When you need super(); what return does | `page 31` |
+| Conceptual questions: why override the constructor and call super() | `page 32–33` |
+| Modifying parent class attributes in the child | `page 33` |
+| Preventing direct instantiation of an abstract parent (TypeError) | `page 33–34` |
+| Polymorphism: definition | `page 35` |
+| Method overriding with abstract base classes (Animal, Dog, Cat) | `page 35` |
+| Objects in a list, calling the same method on each | `page 35–36` |
+| “What is an object and its data type?” (everything is an object) | `page 36–37` |
+| Method overloading (not directly supported in Python) | `page 37` |
+| Duck typing (make_sound) | `page 38` |
+| Class, object, method and function relationship diagram | `page 39` |
+| Abstract base classes (ABCs) | `page 39` |
+| Types of polymorphism: compile-time (static) and run-time (dynamic) | `page 39` |
 
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/Python_fundaments/blob/main/OOP.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/Python_fundaments/raw/refs/heads/main/OOP.pdf)
